@@ -6,6 +6,7 @@ Usage
 =====
 You'll need to set up the username/password in the email settings, then call:
 >> notify('hello from matlab!');
+
 That's it!
 
 Notes
