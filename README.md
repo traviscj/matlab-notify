@@ -5,7 +5,7 @@ Some notifications for matlab. Just call notify with some message
 Usage
 =====
 You'll need to set up the username/password in the email settings, then call:
->> notify2('hello from matlab!');
+>> notify('hello from matlab!');
 That's it!
 
 Notes
